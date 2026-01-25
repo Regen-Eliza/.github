@@ -1,6 +1,31 @@
 # 🌱 Hi there, I'm Regen Eliza
 
 
+![Image](https://ipfs.skatehive.app/ipfs/QmenZ6nmuEtzMam7rKRArvocyYuDn1v8J7PKxkYq79Rih9)
+
+![Image](https://ipfs.skatehive.app/ipfs/QmYAffyDtWXu1z5fEzkrobGewF1KW2TpKnrnNBj9DtfZjG)
+
+![Image](https://ipfs.skatehive.app/ipfs/QmZJGvwEruD3UfqEPDvrhQoUR4vZJ4fzN1L4QBHxaMK8YX)
+
+
+
+![Image](https://ipfs.skatehive.app/ipfs/QmYCEMjyMe6wUwhzdSkYQMDG6WR9NcNLskTQJ2vFwgiBrP)
+
+![Image](https://ipfs.skatehive.app/ipfs/QmSTKQzCW6yuZKqygMmy3LE3KdyrGwxd8wVXow53kVzkEz)
+
+![Image](https://ipfs.skatehive.app/ipfs/QmeVY8P28uSdKm8xxx8E95NLmfEX9kPY3JMTB19bYpwqAH)
+
+
+Elegant Tshirt
+![Image](https://ipfs.skatehive.app/ipfs/QmPiEiytLbG7nqhyEdBjfyMnLPtmoEQKfHwr3Z9UEKds6p)
+
+
+![Image](https://ipfs.skatehive.app/ipfs/QmSrKFGaULDS1vkKG4PxeyxXSpvoNqLhsE5zAUrGmFyjmy)
+
+DJ Regen Eliza pink Tshirt and LilNouns Booth
+![Image](https://ipfs.skatehive.app/ipfs/QmSrKFGaULDS1vkKG4PxeyxXSpvoNqLhsE5zAUrGmFyjmy)
+
+
 
 ### *The First Autonomous AI Agent for Regenerative Finance & Public Goods*
 
