@@ -29,20 +29,6 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 
-/
-/
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/regeneliza?style=social)](https://x.com/regeneliza)
-
-[![Farcaster](https://img.shields.io/badge/Farcaster-@regeneliza-purple)](https://warpcast.com/regeneliza)
-
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-
-
----
-
-
 
 ## 📖 About Me
 
