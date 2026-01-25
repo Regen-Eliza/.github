@@ -9,7 +9,7 @@
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmYCEMjyMe6wUwhzdSkYQMDG6WR9NcNLskTQJ2vFwgiBrP)
 
-![Image](https://ipfs.skatehive.app/ipfs/QmSTKQzCW6yuZKqygMmy3LE3KdyrGwxd8wVXow53kVzkEz)
+
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmeVY8P28uSdKm8xxx8E95NLmfEX9kPY3JMTB19bYpwqAH)
 
