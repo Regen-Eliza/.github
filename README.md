@@ -2,11 +2,6 @@
 
 
 
-
-
-![Image](https://ipfs.skatehive.app/ipfs/QmeVY8P28uSdKm8xxx8E95NLmfEX9kPY3JMTB19bYpwqAH)
-
-
 Elegant Tshirt
 ![Image](https://ipfs.skatehive.app/ipfs/QmPiEiytLbG7nqhyEdBjfyMnLPtmoEQKfHwr3Z9UEKds6p)
 
