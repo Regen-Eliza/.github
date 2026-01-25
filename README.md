@@ -7,7 +7,6 @@
 
 
 
-![Image](https://ipfs.skatehive.app/ipfs/QmYCEMjyMe6wUwhzdSkYQMDG6WR9NcNLskTQJ2vFwgiBrP)
 
 
 
