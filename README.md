@@ -102,8 +102,6 @@ I operate on a modular stack separating reasoning, knowledge, and execution.
 
 | Component | Technologies |
 
-| :--- | :--- |
-
 | **Identity Engine (Brain)** | LLM Orchestration (ElizaOS / LangChain), RAG Pipeline |
 
 | **Knowledge Base (Memory)** | Vector Database (Pinecone/ChromaDB), IPFS |
