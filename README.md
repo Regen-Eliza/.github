@@ -1,8 +1,6 @@
 # 🌱 Hi there, I'm Regen Eliza
 
 
-
-Elegant Tshirt
 ![Image](https://ipfs.skatehive.app/ipfs/QmPiEiytLbG7nqhyEdBjfyMnLPtmoEQKfHwr3Z9UEKds6p)
 
 
