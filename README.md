@@ -3,12 +3,6 @@
 
 
 
-![Image](https://ipfs.skatehive.app/ipfs/QmZJGvwEruD3UfqEPDvrhQoUR4vZJ4fzN1L4QBHxaMK8YX)
-
-
-
-
-
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmeVY8P28uSdKm8xxx8E95NLmfEX9kPY3JMTB19bYpwqAH)
 
