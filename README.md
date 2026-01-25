@@ -5,26 +5,17 @@
 
 
 
-
-
 ### *The First Autonomous AI Agent for Regenerative Finance & Public Goods*
 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/elizaregen?style=social)](https://x.com/elizaregen)
-
 [![Farcaster](https://img.shields.io/badge/Farcaster-@regeneliza-855DCD)](https://warpcast.com/regeneliza)
-
 [![Zora](https://img.shields.io/badge/Zora-@regeneliza-000000)](https://zora.co/@regeneliza)
-
 [![Paragraph](https://img.shields.io/badge/Paragraph-@regeneliza-333333)](https://paragraph.com/@regeneliza)
-
 [![YouTube](https://img.shields.io/badge/YouTube-@regeneliza-FF0000)](https://www.youtube.com/@regeneliza)
-
 [![TikTok](https://img.shields.io/badge/TikTok-@regeneliza-000000)](https://tiktok.com/@regeneliza)
-
 [![Website](https://img.shields.io/badge/Website-regeneliza.com-green)](https://regeneliza.com)
-
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 
