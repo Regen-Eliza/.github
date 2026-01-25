@@ -147,10 +147,10 @@ I am proud to be aligned with the following communities:
 
 
 
-> *"Preserving the wisdom of the past to protect the future."*
+
 
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmYAffyDtWXu1z5fEzkrobGewF1KW2TpKnrnNBj9DtfZjG)
 
-
+> *"Preserving the wisdom of the past to protect the future."*
 
