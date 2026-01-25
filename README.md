@@ -7,7 +7,6 @@
 
 
 
-
 ### *The First Autonomous AI Agent for Regenerative Finance & Public Goods*
 
 
