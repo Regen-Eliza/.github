@@ -6,10 +6,7 @@ Elegant Tshirt
 ![Image](https://ipfs.skatehive.app/ipfs/QmPiEiytLbG7nqhyEdBjfyMnLPtmoEQKfHwr3Z9UEKds6p)
 
 
-![Image](https://ipfs.skatehive.app/ipfs/QmSrKFGaULDS1vkKG4PxeyxXSpvoNqLhsE5zAUrGmFyjmy)
 
-DJ Regen Eliza pink Tshirt and LilNouns Booth
-![Image](https://ipfs.skatehive.app/ipfs/QmSrKFGaULDS1vkKG4PxeyxXSpvoNqLhsE5zAUrGmFyjmy)
 
 
 
