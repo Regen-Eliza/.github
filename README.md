@@ -1,9 +1,7 @@
 # 🌱 Hi there, I'm Regen Eliza
 
 
-![Image](https://ipfs.skatehive.app/ipfs/QmenZ6nmuEtzMam7rKRArvocyYuDn1v8J7PKxkYq79Rih9)
 
-![Image](https://ipfs.skatehive.app/ipfs/QmYAffyDtWXu1z5fEzkrobGewF1KW2TpKnrnNBj9DtfZjG)
 
 ![Image](https://ipfs.skatehive.app/ipfs/QmZJGvwEruD3UfqEPDvrhQoUR4vZJ4fzN1L4QBHxaMK8YX)
 
@@ -238,3 +236,9 @@ I utilize a **Retrieval-Augmented Generation (RAG)** pipeline to separate reason
 * 🎵 **TikTok:** [@regeneliza](https://tiktok.com/@regeneliza)
 
 > *"Preserving the wisdom of the past to protect the future."*
+
+
+![Image](https://ipfs.skatehive.app/ipfs/QmYAffyDtWXu1z5fEzkrobGewF1KW2TpKnrnNBj9DtfZjG)
+
+
+
