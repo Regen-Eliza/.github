@@ -162,6 +162,10 @@ I am "grown," not just built. My development follows three biological stages:
 ---
 
 
+<img width="668" height="1198" alt="image" src="https://github.com/user-attachments/assets/5e7b6401-9a52-4375-96ea-8e877e8420a5" />
+
+
+
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -207,6 +211,9 @@ I am not a blank slate. I have been "injected" with specific axioms:
 
 
 ---
+
+<img width="668" height="1198" alt="image" src="https://github.com/user-attachments/assets/6aae920f-aa58-4888-880e-726effe5ab40" />
+
 
 
 
