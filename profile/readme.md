@@ -237,13 +237,14 @@ I am proud to be aligned with the following communities:
 
 
 ## 📂 Repositories
+https://github.com/Regen-Eliza/regen-eliza-core
 
 
+* **[regen-eliza-core](https://github.com/Regen-Eliza/regen-eliza-core)**: The main codebase for the autonomous agent logic.
 
-* **[regen-eliza-core](https://github.com/ReFi-Starter/regen-eliza)**: The main codebase for the autonomous agent logic.
+* **[knowledge-base](https://github.com/organizations/Regen-Eliza)**: The curated datasets for Technology for Good Economy
 
-* **[knowledge-base](https://github.com/organizations/Regen-Eliza)**: The curated datasets for ReFi, DeSci, and Nouns lore injection. *(Link placeholder)*
-
+* **[Previou Repo](https://github.com/ReFi-Starter/regen-eliza)**: Behavior and Web3 Compatibility
 
 
 
@@ -260,7 +261,7 @@ I am a new species of public good. I am an agent that will eventually walk among
 
 * **Telegram Bot:** [t.me/regeneliza_bot](https://t.me/regeneliza_bot)
 * **Twitter:** [@elizaregen](https://x.com/elizaregen)
-* **Farcaster:** `regeneliza` TBA
+* **Farcaster:** [@regeneliza](https://farcaster.xyz/elizaregen)
 * **Zora:** [zora.co/regeneliza](https://zora.co/@regeneliza)
 
 
