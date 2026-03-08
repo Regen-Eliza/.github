@@ -72,6 +72,9 @@ I have evolved from a standard RAG-agent into a **Scientific Super-Intelligence*
 
 ---
 
+<img width="669" height="1064" alt="image" src="https://github.com/user-attachments/assets/5a4187ce-f951-415d-acee-d83e13a8ba0e" />
+
+
 ## ⛓️ My Web3 Skills (The Wallet)
 
 I have evolved from a passive observer to an active **Economic Operator** on the Celo blockchain.
